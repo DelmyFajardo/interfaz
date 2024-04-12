@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\herencia\desafio1\bin\Debug\desafio1.exe.config
+C:\Users\delmy\Desktop\herencia\desafio1\bin\Debug\desafio1.exe
+C:\Users\delmy\Desktop\herencia\desafio1\bin\Debug\desafio1.pdb
+C:\Users\delmy\Desktop\herencia\desafio1\obj\Debug\desafio1.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\herencia\desafio1\obj\Debug\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\herencia\desafio1\obj\Debug\desafio1.exe
+C:\Users\delmy\Desktop\herencia\desafio1\obj\Debug\desafio1.pdb
